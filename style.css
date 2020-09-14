@@ -1,6 +1,11 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+<<<<<<< HEAD
+=======
+	
+
+>>>>>>> center-elements
 }
 
 #container {
@@ -9,9 +14,17 @@ body {
 	justify-content: center;
 	height: 100vh;
 	flex-direction: column;
+<<<<<<< HEAD
+=======
+>>>>>>> center-elements
 }
 
 #logo {
 	height: 80px;
 	width: 80px:;
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> center-elements
